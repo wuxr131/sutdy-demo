@@ -1,3 +1,15 @@
-/springdate-jpa-hibernate/target/
-/springdate-jpa-hibernate/springdate-jpa-hibernate.iml
-/.idea/
+.mvn/
+target/
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+
+### VS Code ###
+.vscode/
